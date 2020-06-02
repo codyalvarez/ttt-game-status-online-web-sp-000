@@ -35,5 +35,4 @@ end
 
 def winner(board)
   won?(board) && board[won?(board)[0]]
-  end
 end
